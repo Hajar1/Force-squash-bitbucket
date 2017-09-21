@@ -13,7 +13,7 @@ Installation
 
     4.Browse to the ForceSquash file.
 
-    5.Select the File
+    5.Select the File, Press Ok!
 
     6.You’re all set. Happy Squashing!
 
