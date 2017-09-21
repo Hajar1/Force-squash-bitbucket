@@ -5,12 +5,17 @@ Force Squash is a chrome extensions used to force squashes on pull requests of b
 Installation
 --------------------------------------------------------------------------------------------------------------------------------
 
-1.Clone or download the project
-2.Go to: chrome://extensions/
-3.In the extensions tab, Press on load unpacked extensions
-4.Browse to the ForceSquash file.
-5.Select the File
-6.You’re all set. Happy Squashing!
+    1.Clone or download the project
+
+    2.Go to: chrome://extensions/
+
+    3.In the extensions tab, Press on load unpacked extensions
+
+    4.Browse to the ForceSquash file.
+
+    5.Select the File
+
+    6.You’re all set. Happy Squashing!
 
 
 
