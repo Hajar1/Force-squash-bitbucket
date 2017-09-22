@@ -13,11 +13,11 @@ Installation
 	
 	4.Press on load unpacked extensions
 
-    4.Browse to the ForceSquash file.
+    5.Browse to the ForceSquash file.
 
-    5.Select the File, Press Ok!
+    6.Select the File, Press Ok!
 
-    6.You’re all set. Happy Squashing!
+    7.You’re all set. Happy Squashing!
 
 
 
