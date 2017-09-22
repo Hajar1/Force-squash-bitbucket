@@ -9,7 +9,9 @@ Installation
 
     2.Go to: chrome://extensions/
 
-    3.In the extensions tab, Press on load unpacked extensions
+    3.In the extensions tab, Check Developper mode checkbox
+	
+	4.Press on load unpacked extensions
 
     4.Browse to the ForceSquash file.
 
